@@ -3,13 +3,13 @@
 I implemented the admin side of a book store management system using binary search trees, hashmaps, file management, and arrays. This repo contains the code, [screenshots](/screenshots), and the [report](/report.pdf) file I submitted.
 
 #### Features:
-1. Add a book
-2. Update book quantity
-3. Generate bill
-4. Delete a book
-5. Check the availability of a book
+1. Add Book
+2. Delete Book
+3. Update Quantity
+4. Check Availability
+5. Generate Bill
 
 #### Data Structures used:
 1. Array 
-2. Binary search tree
-3. Hashmap (logic only)
+2. Binary Search Tree
+3. Hashmap
